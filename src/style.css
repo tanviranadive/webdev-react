@@ -1,0 +1,17 @@
+.navbar{
+    display: block;
+    text-align:center;
+    float: none;
+    vertical-align: top;
+}
+
+.navbar .navbar-brand{
+    color: #000000;
+}
+#coursetitle a {
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+    color: #000000;
+    text-align: center;
+}
